@@ -1,4 +1,4 @@
-027 remove duplicates from sorted array
+
 int removeDuplicates(int* nums, int numsSize) {
    int i, j = 1;
 
